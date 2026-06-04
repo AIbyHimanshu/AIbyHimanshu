@@ -4,7 +4,7 @@ Building low-latency, human-aware AI systems
 
 
 # 💫 About Me:
-🔭 Working on real-time cognitive workload estimation using gaze tracking, entropy modeling, and ROS pipelines<br>👯 Open to collaborating on AI systems in robotics, perception, and human-in-the-loop intelligence<br>🤝 Looking to improve scalability and low-latency performance in real-time AI systems<br>🌱 Currently learning advanced AI system design, ROS2 architectures, and real-time optimization<br>💬 Ask me about Real-time AI systems, ROS, gaze tracking, entropy modeling, and production ML pipelines<br>⚡ Fun fact I’ve built AI systems that run in real-time with sub-150ms latency and are validated on real human data
+🔭 Developed a real-time cognitive workload estimation using gaze tracking, entropy modeling, and ROS pipelines<br>👯 Open to collaborating on AI systems in robotics, perception, and human-in-the-loop intelligence<br>🤝 Looking to improve scalability and low-latency performance in real-time AI systems<br>🌱 Currently learning advanced AI system design, ROS2 architectures, and real-time optimization<br>💬 Ask me about Real-time AI systems, ROS, gaze tracking, entropy modeling, and production ML pipelines<br>⚡ Fun fact I’ve built AI systems that run in real-time with sub-150ms latency and are validated on real human data
 
 
 ## 🌐 Connect:
