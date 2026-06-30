@@ -1,4 +1,4 @@
-# Himanshu Yadav  
+# Himanshu Yadav
 AI Engineer | Computer Vision & Robotics | Real-Time Systems
 
 Building low-latency, human-aware AI systems
@@ -9,6 +9,7 @@ Building low-latency, human-aware AI systems
 
 
 ## 🌐 Connect:
+Portfolio: https://himanshu-yadav-portfolio.vercel.app
 LinkedIn: https://linkedin.com/in/himanshu-yadav-ai  
 Email: himanshuy0410@gmail.com 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-yadav-ai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshuy0410@gmail.com) -->
